@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "router_url": "wss://placeholder.proxy.runpod.net",
+  "router_http": "https://placeholder.proxy.runpod.net",
+  "updated": "2026-09-06T18:30:00Z",
+  "health": "/v1/health"
+}
